@@ -1,0 +1,5 @@
+name: AttackDogs
+version: ${project.version}
+main: me.robertlit.attackdogs.AttackDogs
+api-version: 1.16
+authors: [robertlit]
